@@ -1,0 +1,11 @@
+[
+  {
+    "uuid": 1,
+    "foodImg": "hamburger.png",
+    "title": "X-Burger",
+    "price": "18,99",
+    "descriptionTitle": "O Clássico",
+    "avaliation": 4,
+    "descriptionBody": "O Clássico mais pedido, mais saboroso está de cara nova e ainda em promoção, peça já o seu!"
+  }
+]
